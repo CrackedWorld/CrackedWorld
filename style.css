@@ -79,7 +79,7 @@ p{line-height: 28px; color: #666; font-weight: 300;}
 
 
 .hero{
-    background: url('img/keyboard.jpg') no-repeat center center;
+    background: url('img/keyboard.png') no-repeat center center;
     background-size: cover;
     height: 100vh;
     display: flex; width: 100%; align-items: center;
